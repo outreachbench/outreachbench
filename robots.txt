@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://outreachbench.github.io/outreachbench/sitemap.xml
